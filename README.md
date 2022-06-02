@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey y'all!
 
+I'm Anthony, an aspiring software engineer who has much to learn. 
 <!--
 **anowyeong/anowyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
